@@ -1,6 +1,7 @@
 # GATE Data Analytics Syllabus Structure
 
 ## 1. Probability and Statistics
+```
 ├── Counting
 │   ├── Permutations
 │   └── Combinations
@@ -35,8 +36,10 @@
 │       ├── Standard Normal
 │       ├── t-distribution
 │       └── Chi-squared
+```
 
 ## 2. Linear Algebra
+```
 ├── Matrices
 │   ├── Operations
 │   ├── Properties
@@ -47,8 +50,10 @@
 ├── Determinant
 ├── Eigenvalues
 └── Eigenvectors
+```
 
 ## 3. Calculus and Optimization
+```
 ├── Limits & Continuity
 ├── Derivatives
 ├── Integration
@@ -57,8 +62,10 @@
 │   ├── Newton's Method
 │   └── Convex Optimization
 └── Lagrange Multipliers
+```
 
 ## 4. Programming & Data Structures
+```
 ├── Programming Fundamentals
 ├── Data Types
 ├── Control Structures
@@ -70,8 +77,10 @@
     ├── Sorting
     ├── Searching
     └── Dynamic Programming
+```
 
 ## 5. Database Management
+```
 ├── ER Model
 ├── Relational Model
 ├── SQL
@@ -79,8 +88,10 @@
 ├── Transaction Management
 ├── Concurrency Control
 └── Data Warehousing
+```
 
 ## 6. Machine Learning
+```
 ├── Supervised Learning
 │   ├── Linear Regression
 │   ├── Logistic Regression
@@ -91,8 +102,10 @@
 │   └── Dimensionality Reduction
 ├── Model Evaluation
 └── Feature Engineering
+```
 
 ## 7. Artificial Intelligence
+```
 ├── Problem Solving
 │   ├── Search Algorithms
 │   └── Game Playing
@@ -100,3 +113,4 @@
 ├── Expert Systems
 ├── Natural Language Processing
 └── Neural Networks
+```
