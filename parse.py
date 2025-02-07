@@ -34,4 +34,5 @@ def start_parsing(subject):
 
 if  __name__ == "__main__":
     subject = sys.argv[1]
+    os.makedirs("data/job_ids", exist_ok=True)
     start_parsing(subject)
